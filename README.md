@@ -15,7 +15,7 @@ This work is based on the code provided by Aurelie Herbelot at https://github.co
    - Modification of the PCA and PNG creation.
 
 
-to run: 
+to run the plsr_regression_ENG_CAT: 
 ```bash
 python plsr_regression_ENG_CAT.py 
 ```
@@ -34,7 +34,7 @@ python plsr_regression_ENG_CAT.py
    - Modification of the PCA and PNG creation;
    - Subspaces both for Italian and English sets and for Italian and English words present in pairs.
 
-to run: 
+to run the plsr_regression_ENG_CAT: 
 ```bash
 python plsr_regression_ENG_ITA.py 
 ```
